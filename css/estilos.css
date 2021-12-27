@@ -3,6 +3,7 @@
     margin: 0px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 nav{
@@ -12,7 +13,7 @@ nav{
     align-items: center;
     padding: 10px 30px;
     background-color: dimgrey;
-    color: white;
+    color: red;
 }
 
 main{
