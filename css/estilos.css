@@ -16,9 +16,17 @@ nav{
 }
 
 main{
-    padding: 10px;
+    /* padding: 10px; */
     display: flex;
     flex-direction: column;
+}
+
+header{
+    
+    font-size: 30px;
+    background-color: rgb(37, 219, 46);
+    margin-bottom: 20px;
+    padding: 10px 40px;
 }
 
 .post{
