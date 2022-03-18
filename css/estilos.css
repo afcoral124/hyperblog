@@ -16,6 +16,10 @@ nav{
     color: red;
 }
 
+nav .logo{
+    width: 50px;
+}
+
 main{
     /* padding: 10px; */
     display: flex;
